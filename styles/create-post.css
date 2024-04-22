@@ -1,0 +1,10 @@
+#post-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  #post-content {
+    height: 100px;
+    padding: 10px;
+  }

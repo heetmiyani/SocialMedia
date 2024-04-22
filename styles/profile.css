@@ -1,0 +1,18 @@
+#profile {
+    display: flex;
+    gap: 20px;
+  }
+  
+  #user-info {
+    flex: 1;
+  }
+  
+  #user-info img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+  }
+  
+  #user-posts {
+    flex: 2;
+  }
